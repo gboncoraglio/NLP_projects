@@ -1,2 +1,2 @@
 # nlp_projects
-Repository containing projects related to NLP
+Repository with my projects on NLP
