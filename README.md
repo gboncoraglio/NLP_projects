@@ -1,5 +1,5 @@
 # nlp_projects
 Repository with my projects on NLP
 
-Projects includes
+Projects includes:
 - Sentiment Analysis
