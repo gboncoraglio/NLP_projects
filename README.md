@@ -2,7 +2,11 @@
 Repository with my projects on NLP
 
 Projects includes:
-- Creating word embeddings
+- Auto-complete system
+- Auto correct system
+- Parts-of-Speech_Tagging
 - Sentiment Analysis
-- Auto correct systems
+- Creating word embeddings
+
+
 
