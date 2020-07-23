@@ -8,3 +8,5 @@ At the end of the training some word embeddings are visualized in a 2D space usi
 SVD for dimensionality reduction.
 
 Training and visualization can be done by running the file run.py
+
+This project was done when studying for the course CS224n, CS224n: Natural Language Processing with Deep Learning.
