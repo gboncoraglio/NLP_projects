@@ -9,5 +9,5 @@ At every step it maintains a partial parse, which is represented as follows:
 - A list of dependencies predicted by the parser.
 
 This project involves implementing a neural-network based dependency parser, with the goal of maximizing performance on the UAS (Unlabeled Attachemnt Score) metric.
-This project was done when studying for the course CS224n, CS224n: Natural Language Processing with Deep Learning.
+This project was done when studying for the course CS224n: Natural Language Processing with Deep Learning.
 
