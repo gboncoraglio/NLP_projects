@@ -1,4 +1,4 @@
-** Dependency Parsing
+## Dependency Parsing
 
 Dependency grammars are quite important in contemporary speech and language processing systems. In
 these formalisms, phrasal constituents and phrase-structure rules do not play a direct
