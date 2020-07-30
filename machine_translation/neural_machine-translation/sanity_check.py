@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
+"""
 Usage:
     sanity_check.py 1d
     sanity_check.py 1e
