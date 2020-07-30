@@ -2,10 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-CS224N 2018-19: Homework 4
-run.py: Run Script for Simple NMT Model
-Pencheng Yin <pcyin@cs.cmu.edu>
-Sahil Chopra <schopra8@stanford.edu>
+
 
 Usage:
     run.py train --train-src=<file> --train-tgt=<file> --dev-src=<file> --dev-tgt=<file> --vocab=<file> [options]
