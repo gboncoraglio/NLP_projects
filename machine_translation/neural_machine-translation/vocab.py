@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
+"""
 Usage:
     vocab.py --train-src=<file> --train-tgt=<file> [options] VOCAB_FILE
 
