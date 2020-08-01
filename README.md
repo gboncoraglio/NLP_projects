@@ -6,6 +6,7 @@ Projects includes:
 - Auto correct system
 - Dependency_Parser system
 - Parts-of-Speech_Tagging
+- Machine_translation
 - Sentiment Analysis
 - Creating word embeddings
 
