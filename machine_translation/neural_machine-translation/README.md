@@ -8,3 +8,5 @@ Encoder and a Unidirectional LSTM Decoder.
 Model is trained on Azure, using pyTorch and GPUs for faster training.
 Training takes approximately 3.5 hours.
 For the evaluation model, model’s corpus BLEU Score is roughly 22.
+
+![Alt text](img1.png?raw=true "Title")
