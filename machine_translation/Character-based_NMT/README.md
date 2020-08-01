@@ -14,7 +14,11 @@ instead generate the target word one character at a time. This will help us to
 produce rare and out-of-vocabulary target words.
 (see second figure below).
 
+In this project, we build a Neural Machine Translation (NMT) system.
 
+Model is trained on Azure, using pyTorch and GPUs for faster training.
+Training takes approximately 8.5 hours.
+For the evaluation model, model’s corpus BLEU Score is roughly 24.
 Project done while studying for the class CS 224N, Natural Language Processing with Deep Learning.
 
 ![Alt text](img1.png?raw=true "Title")
