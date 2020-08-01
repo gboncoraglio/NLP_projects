@@ -13,3 +13,7 @@ instead generate the target word one character at a time. This will help us to
 produce rare and out-of-vocabulary target words.
 
 Project done while studying for the class CS 224N, Natural Language Processing with Deep Learning.
+
+![Alt text](img1.png?raw=true "Title")
+
+![Alt text](img2.png?raw=true "Title")
