@@ -16,3 +16,7 @@ The figure below gives a summary:
 To predict the next character:
 - Use the softmax output and identify the word with the highest probability.
 - The word with the highest probability is the prediction for the next word.
+
+![Alt text](model.png?raw=true "Title")
+
+![Alt text](ngrams.png?raw=true "Title")
