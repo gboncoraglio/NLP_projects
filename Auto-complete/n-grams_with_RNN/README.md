@@ -19,4 +19,3 @@ To predict the next character:
 
 ![Alt text](model.png?raw=true "Title")
 
-![Alt text](ngrams.png?raw=true "Title")
