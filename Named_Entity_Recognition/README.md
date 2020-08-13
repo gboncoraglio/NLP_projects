@@ -12,5 +12,5 @@ And producing an annotated block of text that highlights the names of entities:
 
 In this example, a person name consisting of one token, a two-token company name and a temporal expression have been detected and classified.
 
-State-of-the-art NER systems for English produce near-human performance. For example, the best system entering MUC-7 scored 93.39% of F-measure while human annotators scored 97.60% and 96.95%.[1][2]
+State-of-the-art NER systems for English produce near-human performance. For example, the best system entering MUC-7 scored 93.39% of F-measure while human annotators scored 97.60% and 96.95%.
 [ https://en.wikipedia.org/wiki/Named-entity_recognition ]
