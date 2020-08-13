@@ -14,3 +14,5 @@ In this example, a person name consisting of one token, a two-token company name
 
 State-of-the-art NER systems for English produce near-human performance. For example, the best system entering MUC-7 scored 93.39% of F-measure while human annotators scored 97.60% and 96.95%.
 [ https://en.wikipedia.org/wiki/Named-entity_recognition ]
+
+![Alt text](ner.png?raw=true "Title")
