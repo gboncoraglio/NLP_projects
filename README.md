@@ -2,14 +2,15 @@
 Repository with my projects on NLP
 
 Projects includes:
-- Auto-complete system
-- Auto correct system
-- Dependency Parser system
+- Auto-complete System
+- Auto Correct System
+- Dependency Parser System
 - Named Entity Recognition
 - Parts-of-Speech Tagging
-- Machine_translation
+- Text Summarization
+- Machine Translation
 - Sentiment Analysis
-- Creating word embeddings
+- Creating Word Embeddings
 
 
 
